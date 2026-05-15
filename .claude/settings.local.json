@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jupyter kernelspec:*)",
+      "Bash(\"C:\\\\Users\\\\Jacob\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" --version)"
+    ]
+  }
+}
